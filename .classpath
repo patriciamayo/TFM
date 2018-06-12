@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/lib/sax2.jar"/>
+	<classpathentry kind="lib" path="/Users/patriciamayotejedor/Documents/workspace/SPARQL-JAVA-master/dist/SPARQL-JAVA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
